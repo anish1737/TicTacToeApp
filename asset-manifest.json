@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/anish1737.github.io/TicTacToeApp/static/css/main.74ced00e.chunk.css",
+    "main.js": "/anish1737.github.io/TicTacToeApp/static/js/main.8c1256b9.chunk.js",
+    "main.js.map": "/anish1737.github.io/TicTacToeApp/static/js/main.8c1256b9.chunk.js.map",
+    "runtime-main.js": "/anish1737.github.io/TicTacToeApp/static/js/runtime-main.5f319067.js",
+    "runtime-main.js.map": "/anish1737.github.io/TicTacToeApp/static/js/runtime-main.5f319067.js.map",
+    "static/js/2.329623a7.chunk.js": "/anish1737.github.io/TicTacToeApp/static/js/2.329623a7.chunk.js",
+    "static/js/2.329623a7.chunk.js.map": "/anish1737.github.io/TicTacToeApp/static/js/2.329623a7.chunk.js.map",
+    "static/js/3.c0921805.chunk.js": "/anish1737.github.io/TicTacToeApp/static/js/3.c0921805.chunk.js",
+    "static/js/3.c0921805.chunk.js.map": "/anish1737.github.io/TicTacToeApp/static/js/3.c0921805.chunk.js.map",
+    "index.html": "/anish1737.github.io/TicTacToeApp/index.html",
+    "static/css/main.74ced00e.chunk.css.map": "/anish1737.github.io/TicTacToeApp/static/css/main.74ced00e.chunk.css.map",
+    "static/js/2.329623a7.chunk.js.LICENSE.txt": "/anish1737.github.io/TicTacToeApp/static/js/2.329623a7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/anish1737.github.io/TicTacToeApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f319067.js",
+    "static/js/2.329623a7.chunk.js",
+    "static/css/main.74ced00e.chunk.css",
+    "static/js/main.8c1256b9.chunk.js"
+  ]
+}
